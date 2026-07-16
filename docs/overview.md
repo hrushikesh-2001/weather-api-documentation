@@ -46,15 +46,25 @@ ___
 ## Architecture 
 
 Client Application 
+
 ↓
+
 HTTPS request
+
 ↓
+
 Weather Requet
+
 ↓
+
 Weather API
+
 ↓
+
 Weather Database
+
 ↓
+
 JSON Response
 
 ___
@@ -123,6 +133,7 @@ ___
 ## HTTP status Code
 
 | code | Meaning |
+|---|---|
 | 200 | Success |
 | 400 | Bad request | 
 | 401 | Unauthorized |
