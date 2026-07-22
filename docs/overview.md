@@ -145,9 +145,15 @@ ___
 
 ## Related Documents
 
-* Authentication
-* Endpoints
-* Error code
-* Examples 
-* FAQ
+* [Authentication](/authentication.md)
+* [Endpoints](/endpoints.md)
+* [Error code](/errors.md)
+* [Examples](/examples.md)
+* [FAQ](/faq.md)
 
+---
+
+## Next Steps
+
+- Read the [Authentication Guide](authentication.md)
+- Explore the [API Endpoints](endpoints.md)
