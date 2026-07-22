@@ -16,13 +16,13 @@ ___
 ## Documentation 
 | Document | Description |
 |----|----|
-| Overview | Product introduction |
-| Authentatiction | API Authentication |
-| Endpoints | API endpoints |
-| Error codes | Error handling |
-| Examples | Request and response samples |
-| FAQ | Frequently asked questions |
-| Changelog | Version history |
+| [Overview](docs/overview.md) | Product introduction |
+| [Authentatiction](docs/authentication.md) | API Authentication |
+| [Endpoints](docs/endpoints.md) | API endpoints |
+| [Error codes](docs/errors.md) | Error handling |
+| [Examples](docs/examples.md) | Request and response samples |
+| [FAQ](docs/faq.md) | Frequently asked questions |
+| [Changelog](docs/changelog.md) | Version history |
 
 ___
 
