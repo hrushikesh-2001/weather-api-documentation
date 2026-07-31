@@ -181,7 +181,6 @@ curl -X POST https://api.weatherexample.com/v1/auth/login \
 - Validate user credentials on the server before issuing authentication tokens.
 
 ---
-
 # POST /auth/forgot-password
 
 Requests a password-reset link for a registered user.
