@@ -152,8 +152,3 @@ ___
 * [FAQ](/faq.md)
 
 ---
-
-## Next Steps
-
-- Read the [Authentication Guide](authentication.md)
-- Explore the [API Endpoints](endpoints.md)

@@ -19,15 +19,20 @@ This repository showcases API documentation written in Markdown using industry-s
 
 ## Documentation
 
-| Document | Description |
-|----------|-------------|
-| Getting Started | Quick setup guide for first-time users |
-| Authentication | JWT authentication workflow and endpoints |
-| API Endpoints | Weather, Forecast, and Alert endpoints |
-| Error Handling | Common HTTP status codes and troubleshooting |
-| Rate Limits | API usage limits and retry recommendations |
-| FAQ | Frequently asked questions |
-| Changelog | Version history |
+## Documentation
+
+| Guide | Description |
+|------|-------------|
+| [Overview](docs/overview.md) | Learn about the Weather API and its features. |
+| [Getting Started](docs/getting-started.md) | Make your first API request. |
+| [Authentication](docs/authentication.md) | Understand JWT authentication. |
+| [Authentication API](docs/auth-api.md) | Register, login, refresh, reset password, and logout endpoints. |
+| [API Endpoints](docs/endpoints.md) | Weather, Forecast, and Alert endpoints. |
+| [Error Handling](docs/error-handling.md) | HTTP status codes and troubleshooting. |
+| [Rate Limits](docs/rate-limits.md) | Request limits and retry guidance. |
+| [FAQ](docs/faq.md) | Frequently asked questions. |
+| [cURL Examples](examples/curl-examples.md) | Ready-to-use API request examples. |
+| [Changelog](docs/changelog.md) | API version history. |
 
 ---
 
@@ -115,6 +120,12 @@ curl -X GET "https://api.weatherexample.com/v1/weather?location=Pune&units=metri
 - OpenAPI (work in progress)
 
 ---
+
+## About this Project
+
+This project is created to demonstrate my technical writing skills.
+
+The API is fictional and was designed to practice documenting REST APIs using industry-standard documentation practices including Markdown, Git, GitHub, cURL examples, HTTP status codes, and authentication workflows.
 
 ## Author
 
