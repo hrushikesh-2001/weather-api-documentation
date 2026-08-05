@@ -19,8 +19,6 @@ This repository showcases API documentation written in Markdown using industry-s
 
 ## Documentation
 
-## Documentation
-
 | Guide | Description |
 |------|-------------|
 | [Overview](docs/overview.md) | Learn about the Weather API and its features. |
